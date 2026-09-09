@@ -1,0 +1,66 @@
+[
+ {
+  "fil": "01-featured-image.png",
+  "kilde": "https://godtogvarmt.as/wp-content/uploads/2026/02/featured-image.png",
+  "bredde": 1200,
+  "hoyde": 628,
+  "alt": "og:image",
+  "side": "https://godtogvarmt.as"
+ },
+ {
+  "fil": "02-featured-image-1024x536.png",
+  "kilde": "https://godtogvarmt.as/wp-content/uploads/2026/02/featured-image-1024x536.png",
+  "bredde": 1024,
+  "hoyde": 536,
+  "alt": "og:image",
+  "side": "https://godtogvarmt.as"
+ },
+ {
+  "fil": "03-g-og-v-19-1-1536x1024.jpg",
+  "kilde": "https://godtogvarmt.as/wp-content/uploads/2026/02/G-og-V_19-1-1536x1024.jpg",
+  "bredde": 1536,
+  "hoyde": 1024,
+  "alt": "",
+  "side": "https://godtogvarmt.as"
+ },
+ {
+  "fil": "04-anmeldelse-seksjonwebp-1024x989.webp",
+  "kilde": "https://godtogvarmt.as/wp-content/uploads/2026/02/anmeldelse-seksjonwebp-1024x989.webp",
+  "bredde": 1024,
+  "hoyde": 989,
+  "alt": "",
+  "side": "https://godtogvarmt.as"
+ },
+ {
+  "fil": "05-bra-1024x725.png",
+  "kilde": "https://godtogvarmt.as/wp-content/uploads/2026/02/Bra-1024x725.png",
+  "bredde": 1024,
+  "hoyde": 725,
+  "alt": "",
+  "side": "https://godtogvarmt.as"
+ },
+ {
+  "fil": "06-bedre-1024x725.png",
+  "kilde": "https://godtogvarmt.as/wp-content/uploads/2026/02/Bedre-1024x725.png",
+  "bredde": 1024,
+  "hoyde": 725,
+  "alt": "",
+  "side": "https://godtogvarmt.as"
+ },
+ {
+  "fil": "07-best-1024x725.png",
+  "kilde": "https://godtogvarmt.as/wp-content/uploads/2026/02/Best-1024x725.png",
+  "bredde": 1024,
+  "hoyde": 725,
+  "alt": "",
+  "side": "https://godtogvarmt.as"
+ },
+ {
+  "fil": "08-gratis-befaring-block.png",
+  "kilde": "https://godtogvarmt.as/wp-content/uploads/2026/02/gratis-befaring-block.png",
+  "bredde": 1820,
+  "hoyde": 563,
+  "alt": "css-bg",
+  "side": "https://godtogvarmt.as"
+ }
+]
